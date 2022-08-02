@@ -1,0 +1,659 @@
+2022-06-29 14:05:53,051 - logger_File -INFO - Scenario User verify currency values change started
+2022-06-29 14:05:53,185 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-06-29 14:06:41,987 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-06-29 14:06:42,075 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-29 14:06:42,098 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-29 14:06:42,135 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-29 15:22:34,519 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-29 15:22:34,566 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-06-29 15:22:34,597 - logger_File -INFO - Scenario Edit your account Information started
+2022-06-29 15:49:10,267 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-29 15:49:10,314 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-06-29 15:49:10,345 - logger_File -INFO - Scenario Edit your account Information started
+2022-06-29 16:59:48,931 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-29 16:59:48,993 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-06-29 16:59:49,056 - logger_File -INFO - Scenario Edit your account Information started
+2022-06-30 10:55:20,329 - logger_File -INFO - Scenario add and remove MacBook from cart started
+2022-06-30 10:55:20,452 - logger_File -INFO - Scenario Product Comparison started
+2022-06-30 10:55:20,470 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-06-30 10:55:20,504 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-06-30 10:56:05,722 - logger_File -INFO - Scenario add and remove MacBook from cart started
+2022-06-30 10:56:05,773 - logger_File -INFO - Scenario Product Comparison started
+2022-06-30 10:56:05,811 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-06-30 10:56:05,826 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-06-30 14:03:06,258 - logger_File -INFO - Scenario add and remove MacBook from cart started
+2022-06-30 14:03:06,329 - logger_File -INFO - Scenario Product Comparison started
+2022-06-30 14:03:06,361 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-06-30 14:03:06,402 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-06-30 14:08:40,717 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-06-30 14:08:40,779 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-30 14:08:40,811 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-30 14:08:40,836 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-30 14:09:22,172 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-06-30 14:09:22,229 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-30 14:09:22,253 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-30 14:09:22,278 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-30 14:11:13,246 - logger_File -INFO - Scenario User verify currency values change started
+2022-06-30 14:11:13,355 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-06-30 14:13:30,896 - logger_File -INFO - Scenario User verify currency values change started
+2022-06-30 14:13:30,961 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-07-27 18:02:19,681 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-27 18:02:19,856 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-27 18:02:19,921 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-27 18:08:41,411 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-27 18:08:41,742 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-27 18:08:41,848 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-27 18:15:12,814 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-27 18:15:28,990 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-07-27 18:15:29,295 - logger_File -INFO - account link was clicked successfully
+2022-07-27 18:16:00,822 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-27 18:16:00,896 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-27 18:16:04,632 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-07-27 18:16:05,182 - logger_File -INFO - account link was clicked successfully
+2022-07-27 18:16:36,601 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-27 18:16:36,684 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-27 18:16:40,161 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-07-27 18:16:40,786 - logger_File -INFO - account link was clicked successfully
+2022-07-27 18:17:12,206 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-07-27 18:23:34,774 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-27 18:23:36,945 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:36,946 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:37,576 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:37,578 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:37,866 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:37,867 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:38,075 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-27 18:23:38,338 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:38,339 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:38,608 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:38,609 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:38,879 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:38,880 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:38,953 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-27 18:23:39,269 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:39,271 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:39,506 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:39,507 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:39,776 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:23:39,777 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:30,629 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-27 18:24:32,388 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:32,388 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:32,929 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:32,931 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:33,252 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:33,253 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:33,433 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-27 18:24:33,725 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:33,726 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:33,993 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:33,994 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:34,315 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:34,315 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:34,388 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-27 18:24:34,673 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:34,675 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:34,955 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:34,956 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="667b7470adcddc8d4c1d6f426a40b0cae9651a3c4757a2a4a9543cd05773cab8", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:35,244 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinity="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:24:35,245 - org.apache.http.client.protocol.ResponseProcessCookies -WARN - Cookie rejected [ARRAffinitySameSite="dc0afb88b06f8acee5b9f72ac727a3520876ed062d9dd904b77e346206763032", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-27 18:31:25,468 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-27 18:31:30,855 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-07-27 18:31:31,272 - logger_File -INFO - account link was clicked successfully
+2022-07-27 18:32:02,587 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-27 18:32:02,675 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-27 18:32:05,953 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-07-27 18:32:06,480 - logger_File -INFO - account link was clicked successfully
+2022-07-27 18:32:37,709 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-27 18:32:37,746 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-27 18:32:41,041 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-07-27 18:32:41,574 - logger_File -INFO - account link was clicked successfully
+2022-07-27 18:33:12,748 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-07-27 18:38:44,865 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-27 18:38:53,203 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-07-27 18:38:53,406 - logger_File -INFO - account link was clicked successfully
+2022-07-27 18:39:44,634 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-27 18:39:44,722 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-27 18:39:50,184 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-07-27 18:39:50,352 - logger_File -INFO - account link was clicked successfully
+2022-07-27 18:40:41,839 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-27 18:40:41,917 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-27 18:40:45,788 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-07-27 18:40:46,059 - logger_File -INFO - account link was clicked successfully
+2022-07-27 18:41:38,228 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-07-27 18:53:50,353 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-27 18:53:55,629 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-07-27 18:53:55,854 - logger_File -INFO - account link was clicked successfully
+2022-07-27 18:54:47,181 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-07-27 18:54:47,244 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-27 18:54:50,769 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-07-27 18:54:51,039 - logger_File -INFO - account link was clicked successfully
+2022-07-27 18:55:42,164 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-07-27 18:55:42,214 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-27 18:55:45,664 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-07-27 18:55:45,869 - logger_File -INFO - account link was clicked successfully
+2022-07-27 18:56:37,038 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-08-01 16:08:48,522 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-01 16:08:58,572 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 16:08:59,173 - logger_File -INFO - account link was clicked successfully
+2022-08-01 16:09:24,829 - logger_File -INFO - user clicked on loginlink successfully
+2022-08-01 16:09:25,109 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-01 16:09:31,777 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 16:09:32,039 - logger_File -INFO - account link was clicked successfully
+2022-08-01 16:10:03,200 - logger_File -INFO - user clicked on loginlink successfully
+2022-08-01 16:10:03,410 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-01 16:10:09,094 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 16:10:09,486 - logger_File -INFO - account link was clicked successfully
+2022-08-01 16:11:00,915 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-08-01 16:48:11,026 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-01 16:48:17,904 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 16:48:18,108 - logger_File -INFO - account link was clicked successfully
+2022-08-01 16:49:09,397 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-08-01 16:49:09,444 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-01 16:49:14,329 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 16:49:14,509 - logger_File -INFO - account link was clicked successfully
+2022-08-01 16:50:05,834 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-08-01 16:50:05,874 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-01 16:50:10,866 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 16:50:11,085 - logger_File -INFO - account link was clicked successfully
+2022-08-01 16:51:02,286 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-08-01 17:10:48,129 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-01 17:10:54,477 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 17:10:54,919 - logger_File -INFO - account link was clicked successfully
+2022-08-01 17:11:46,284 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-08-01 17:11:46,336 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-01 17:11:50,557 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 17:11:51,067 - logger_File -INFO - account link was clicked successfully
+2022-08-01 17:12:42,313 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-08-01 17:12:42,341 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-01 17:12:46,733 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 17:12:47,206 - logger_File -INFO - account link was clicked successfully
+2022-08-01 17:13:38,423 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-08-01 17:31:35,156 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-01 17:31:41,847 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 17:31:42,188 - logger_File -INFO - account link was clicked successfully
+2022-08-01 17:31:42,513 - logger_File -INFO - user clicked on loginlink successfully
+2022-08-01 17:31:42,858 - logger_File -INFO - username and password entered succesfully
+2022-08-01 17:31:43,368 - logger_File -INFO - user login Successfully
+2022-08-01 17:31:44,545 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-08-01 17:31:44,590 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-01 17:31:48,911 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 17:31:49,347 - logger_File -INFO - account link was clicked successfully
+2022-08-01 17:31:49,692 - logger_File -INFO - user clicked on loginlink successfully
+2022-08-01 17:31:50,015 - logger_File -INFO - username and password entered succesfully
+2022-08-01 17:31:50,476 - logger_File -INFO - user login Successfully
+2022-08-01 17:31:51,544 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-08-01 17:31:51,627 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-01 17:31:56,365 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 17:31:56,735 - logger_File -INFO - account link was clicked successfully
+2022-08-01 17:31:57,076 - logger_File -INFO - user clicked on loginlink successfully
+2022-08-01 17:31:57,446 - logger_File -INFO - username and password entered succesfully
+2022-08-01 17:31:57,968 - logger_File -INFO - user login Successfully
+2022-08-01 17:31:59,221 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-08-01 17:39:28,192 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-01 17:39:34,191 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 17:39:34,544 - logger_File -INFO - account link was clicked successfully
+2022-08-01 17:39:34,911 - logger_File -INFO - user clicked on loginlink successfully
+2022-08-01 17:39:35,254 - logger_File -INFO - username and password entered succesfully
+2022-08-01 17:39:35,759 - logger_File -INFO - user login Successfully
+2022-08-01 17:39:35,819 - logger_File -INFO - Actual and expexted text of my account dashboard matched successfully
+2022-08-01 17:40:27,006 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-08-01 17:40:27,044 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-01 17:40:31,973 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 17:40:32,199 - logger_File -INFO - account link was clicked successfully
+2022-08-01 17:40:32,519 - logger_File -INFO - user clicked on loginlink successfully
+2022-08-01 17:40:32,861 - logger_File -INFO - username and password entered succesfully
+2022-08-01 17:40:33,377 - logger_File -INFO - user login Successfully
+2022-08-01 17:40:33,432 - logger_File -INFO - Actual and expexted text of my account dashboard matched successfully
+2022-08-01 17:40:33,815 - logger_File -INFO - user successfully clicked on Affiliate information edit link 
+2022-08-01 17:40:34,052 - logger_File -INFO - user successfully clicked on radio transfer button
+2022-08-01 17:40:34,664 - logger_File -INFO - the form filled out successfully
+2022-08-01 17:40:35,202 - logger_File -INFO - user successfully click on continue button
+2022-08-01 17:40:36,250 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-08-01 17:40:36,295 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-01 17:40:41,337 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 17:40:41,679 - logger_File -INFO - account link was clicked successfully
+2022-08-01 17:40:42,360 - logger_File -INFO - user clicked on loginlink successfully
+2022-08-01 17:40:42,673 - logger_File -INFO - username and password entered succesfully
+2022-08-01 17:40:43,155 - logger_File -INFO - user login Successfully
+2022-08-01 17:40:43,207 - logger_File -INFO - Actual and expexted text of my account dashboard matched successfully
+2022-08-01 17:40:44,064 - logger_File -INFO - user clicked on edit account information link
+2022-08-01 17:40:44,714 - logger_File -INFO - the edit acount form filled out successfully
+2022-08-01 17:40:45,174 - logger_File -INFO - user successfully click on continue button
+2022-08-01 17:40:46,310 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-08-01 17:45:04,874 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-01 17:45:11,494 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 17:45:11,799 - logger_File -INFO - account link was clicked successfully
+2022-08-01 17:45:12,139 - logger_File -INFO - user clicked on loginlink successfully
+2022-08-01 17:45:12,476 - logger_File -INFO - username and password entered succesfully
+2022-08-01 17:45:13,000 - logger_File -INFO - user login Successfully
+2022-08-01 17:45:13,052 - logger_File -INFO - Actual and expexted text of my account dashboard matched successfully
+2022-08-01 17:46:04,120 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-08-01 17:46:04,166 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-01 17:46:08,984 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 17:46:09,184 - logger_File -INFO - account link was clicked successfully
+2022-08-01 17:46:09,496 - logger_File -INFO - user clicked on loginlink successfully
+2022-08-01 17:46:09,814 - logger_File -INFO - username and password entered succesfully
+2022-08-01 17:46:10,325 - logger_File -INFO - user login Successfully
+2022-08-01 17:46:10,378 - logger_File -INFO - Actual and expexted text of my account dashboard matched successfully
+2022-08-01 17:46:10,750 - logger_File -INFO - user successfully clicked on Affiliate information edit link 
+2022-08-01 17:46:10,923 - logger_File -INFO - user successfully clicked on radio transfer button
+2022-08-01 17:46:11,571 - logger_File -INFO - the form filled out successfully
+2022-08-01 17:46:12,083 - logger_File -INFO - user successfully click on continue button
+2022-08-01 17:46:13,183 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-08-01 17:46:13,233 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-01 17:46:18,389 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 17:46:18,636 - logger_File -INFO - account link was clicked successfully
+2022-08-01 17:46:18,961 - logger_File -INFO - user clicked on loginlink successfully
+2022-08-01 17:46:19,248 - logger_File -INFO - username and password entered succesfully
+2022-08-01 17:46:19,760 - logger_File -INFO - user login Successfully
+2022-08-01 17:46:19,817 - logger_File -INFO - Actual and expexted text of my account dashboard matched successfully
+2022-08-01 17:46:20,608 - logger_File -INFO - user clicked on edit account information link
+2022-08-01 17:46:21,285 - logger_File -INFO - the edit acount form filled out successfully
+2022-08-01 17:46:21,712 - logger_File -INFO - user successfully click on continue button
+2022-08-01 17:46:22,808 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-08-01 17:53:15,800 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-01 17:53:22,069 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 17:53:22,377 - logger_File -INFO - account link was clicked successfully
+2022-08-01 17:53:22,704 - logger_File -INFO - user clicked on loginlink successfully
+2022-08-01 17:53:23,058 - logger_File -INFO - username and password entered succesfully
+2022-08-01 17:53:23,580 - logger_File -INFO - user login Successfully
+2022-08-01 17:53:23,629 - logger_File -INFO - Actual and expexted text of my account dashboard matched successfully
+2022-08-01 17:53:23,988 - logger_File -INFO - user succesfully clicked on affiliate account link 
+2022-08-01 17:53:25,632 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-08-01 17:53:25,694 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-01 17:53:30,465 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 17:53:30,694 - logger_File -INFO - account link was clicked successfully
+2022-08-01 17:53:31,027 - logger_File -INFO - user clicked on loginlink successfully
+2022-08-01 17:53:31,338 - logger_File -INFO - username and password entered succesfully
+2022-08-01 17:53:31,847 - logger_File -INFO - user login Successfully
+2022-08-01 17:53:31,894 - logger_File -INFO - Actual and expexted text of my account dashboard matched successfully
+2022-08-01 17:54:23,099 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-08-01 17:54:23,178 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-01 17:54:27,940 - logger_File -INFO -  expectedtext and actualtext matched 
+2022-08-01 17:54:28,271 - logger_File -INFO - account link was clicked successfully
+2022-08-01 17:54:28,584 - logger_File -INFO - user clicked on loginlink successfully
+2022-08-01 17:54:28,917 - logger_File -INFO - username and password entered succesfully
+2022-08-01 17:54:29,418 - logger_File -INFO - user login Successfully
+2022-08-01 17:54:29,471 - logger_File -INFO - Actual and expexted text of my account dashboard matched successfully
+2022-08-01 17:54:30,224 - logger_File -INFO - user clicked on edit account information link
+2022-08-01 17:54:30,935 - logger_File -INFO - the edit acount form filled out successfully
+2022-08-01 17:54:31,458 - logger_File -INFO - user successfully click on continue button
+2022-08-01 17:54:32,584 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-08-01 18:15:38,877 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-01 18:15:45,106 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 18:15:45,224 - logger_File -INFO - User clicked on my account link successfully.
+2022-08-01 18:15:45,592 - logger_File -INFO - User clicked on login link successfully.
+2022-08-01 18:15:45,943 - logger_File -INFO - User entered email address and password successfully
+2022-08-01 18:15:46,470 - logger_File -INFO - User clicked on login button successfully.
+2022-08-01 18:15:46,567 - logger_File -INFO - User landed on login dashboard successfully.
+2022-08-01 18:15:47,077 - logger_File -INFO - Register account link was clicked successfully
+2022-08-01 18:15:47,692 - logger_File -INFO - User filled the affiliated account form successfully
+2022-08-01 18:15:47,785 - logger_File -INFO - User checked the About Us successfully
+2022-08-01 18:15:48,345 - logger_File -INFO - User clicked on the continue button succcessfully
+2022-08-01 18:15:48,451 - logger_File -INFO - User see a success message successfully
+2022-08-01 18:15:49,551 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-08-01 18:15:49,595 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-01 18:15:54,301 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 18:15:54,473 - logger_File -INFO - User clicked on my account link successfully.
+2022-08-01 18:15:54,852 - logger_File -INFO - User clicked on login link successfully.
+2022-08-01 18:15:55,174 - logger_File -INFO - User entered email address and password successfully
+2022-08-01 18:15:55,701 - logger_File -INFO - User clicked on login button successfully.
+2022-08-01 18:15:55,801 - logger_File -INFO - User landed on login dashboard successfully.
+2022-08-01 18:15:56,304 - logger_File -INFO - User clicked on Edit Affiliated Information Link successfully
+2022-08-01 18:15:56,416 - logger_File -INFO - User selected Bank Radio Button successfully
+2022-08-01 18:15:57,036 - logger_File -INFO - User filled Bank information successfully
+2022-08-01 18:15:57,782 - logger_File -INFO - User clicked on the continue button succcessfully
+2022-08-01 18:15:57,877 - logger_File -INFO - User see a success message successfully
+2022-08-01 18:15:58,897 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-01 18:15:58,929 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-01 18:16:03,714 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 18:16:03,807 - logger_File -INFO - User clicked on my account link successfully.
+2022-08-01 18:16:04,171 - logger_File -INFO - User clicked on login link successfully.
+2022-08-01 18:16:04,561 - logger_File -INFO - User entered email address and password successfully
+2022-08-01 18:16:05,052 - logger_File -INFO - User clicked on login button successfully.
+2022-08-01 18:16:05,149 - logger_File -INFO - User landed on login dashboard successfully.
+2022-08-01 18:16:06,168 - logger_File -INFO - User clicked on edit your account link successfully
+2022-08-01 18:16:06,810 - logger_File -INFO - User modified the information successfully
+2022-08-01 18:16:07,300 - logger_File -INFO - User clicked on the continue button successfully
+2022-08-01 18:16:07,390 - logger_File -INFO - User see a message: Success: Your account has been successfully updated.
+2022-08-01 18:16:08,534 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-08-01 18:36:52,175 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-08-01 18:36:58,463 - logger_File -INFO - User moved over the desktop tab successfully!
+2022-08-01 18:36:59,050 - logger_File -INFO - User clicked on show all desptop link successfully
+2022-08-01 18:36:59,621 - logger_File -INFO -  is present.
+2022-08-01 18:36:59,688 - logger_File -INFO - Desktops is present.
+2022-08-01 18:36:59,746 - logger_File -INFO - Apple Cinema 30" is present.
+2022-08-01 18:36:59,821 - logger_File -INFO - Canon EOS 5D Camera is present.
+2022-08-01 18:36:59,867 - logger_File -INFO - HP LP3065 is present.
+2022-08-01 18:36:59,913 - logger_File -INFO - HTC Touch HD is present.
+2022-08-01 18:36:59,944 - logger_File -INFO - iPhone is present.
+2022-08-01 18:37:00,003 - logger_File -INFO - iPod Classic is present.
+2022-08-01 18:37:00,048 - logger_File -INFO - MacBook is present.
+2022-08-01 18:37:00,095 - logger_File -INFO - MacBook Air is present.
+2022-08-01 18:37:00,143 - logger_File -INFO - Palm Treo Pro is present.
+2022-08-01 18:37:00,173 - logger_File -INFO - Product 8 is present.
+2022-08-01 18:37:00,206 - logger_File -INFO - Samsung SyncMaster 941BW is present.
+2022-08-01 18:37:00,249 - logger_File -INFO - Sony VAIO is present.
+2022-08-01 18:37:01,309 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-01 18:37:01,361 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-08-01 18:37:06,396 - logger_File -INFO - User moved over the desktop tab successfully!
+2022-08-01 18:37:06,963 - logger_File -INFO - User clicked on show all desptop link successfully
+2022-08-01 18:37:08,981 - logger_File -INFO - User clicked on add to cart option successfully!
+2022-08-01 18:37:09,361 - logger_File -INFO - User selected the quantity successfully.
+2022-08-01 18:37:09,492 - logger_File -INFO - User clicked on add to cart button successfully
+2022-08-01 18:37:10,916 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-08-01 18:37:10,966 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-01 18:37:15,857 - logger_File -INFO - User moved over the desktop tab successfully!
+2022-08-01 18:37:16,551 - logger_File -INFO - User clicked on show all desptop link successfully
+2022-08-01 18:37:16,827 - logger_File -INFO - User added Canon EOS 5D to cart successfully.
+2022-08-01 18:37:19,093 - logger_File -INFO - User selected color red from the dropdown menu successfully
+2022-08-01 18:37:19,680 - logger_File -INFO - User selected the quantity successfully.
+2022-08-01 18:37:19,781 - logger_File -INFO - User clicked on add to cart button successfully
+2022-08-01 18:37:21,008 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-08-01 18:37:21,042 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-08-01 18:37:26,193 - logger_File -INFO - User moved over the desktop tab successfully!
+2022-08-01 18:37:26,997 - logger_File -INFO - User clicked on show all desptop link successfully
+2022-08-01 18:37:28,950 - logger_File -INFO - User clicked on Can 5D item successfully.
+2022-08-01 18:37:29,088 - logger_File -INFO - User clicked on Write a review link successfully.
+2022-08-01 18:37:29,868 - logger_File -INFO - User filled the review information successfully
+2022-08-01 18:37:29,946 - logger_File -INFO - User clicked on continue button successfully.
+2022-08-01 18:37:31,217 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-08-01 18:51:50,202 - logger_File -INFO - Scenario User verify currency values change started
+2022-08-01 18:51:56,200 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 18:51:56,323 - logger_File -INFO - User clicked on currency link successfully.
+2022-08-01 18:51:56,883 - logger_File -INFO - User chose the Euro from dropdown successfully.
+2022-08-01 18:51:57,054 - logger_File -INFO - The currency value changed to Euro successfully.
+2022-08-01 18:51:58,283 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-08-01 18:51:58,361 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-08-01 18:52:03,071 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 18:52:03,411 - logger_File -INFO - User clicked on shopping cart link successfully.
+2022-08-01 18:52:03,529 - logger_File -INFO - The message, Your shopping cart is empty displayed successfully.
+2022-08-01 18:52:04,604 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-08-01 19:03:14,159 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-08-01 19:03:20,397 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:03:20,849 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:03:21,448 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:03:23,547 - logger_File -INFO - User clicked on MacBook item successfully.
+2022-08-01 19:03:23,710 - logger_File -INFO - User clicked on add to cart button successfully
+2022-08-01 19:03:24,250 - logger_File -INFO - User see 1 item(s)-602.00 showed to the cart.
+2022-08-01 19:03:24,329 - logger_File -INFO - User clicked on on cart option successfully.
+2022-08-01 19:03:24,405 - logger_File -INFO - User clicked on red X button successfully.
+2022-08-01 19:03:24,616 - logger_File -INFO - The item removed from the cart successfully.
+2022-08-01 19:03:29,718 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-01 19:03:29,769 - logger_File -INFO - Scenario Product Comparison started
+2022-08-01 19:03:34,657 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:03:34,878 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:03:35,454 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:03:35,573 - logger_File -INFO - User clicked on product comparison icon successfully.
+2022-08-01 19:03:35,676 - logger_File -INFO - User clicked on product comparison icon on MacBook Air successfullty.
+2022-08-01 19:03:37,131 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-08-01 19:03:37,170 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-08-01 19:03:42,384 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:03:42,699 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:03:43,205 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:03:43,314 - logger_File -INFO - User clicked on heart icon to add Sony VaIO laptop to wish list successfully
+2022-08-01 19:03:43,633 - logger_File -INFO - User get the message: You must login or create an account to save Sony VAIO to your wish list! successfully
+2022-08-01 19:03:44,954 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-08-01 19:03:44,990 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-08-01 19:03:50,221 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:03:50,505 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:03:51,048 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:03:52,888 - logger_File -INFO - User clicked on Macbook Pro item successfully.
+2022-08-01 19:03:52,997 - logger_File -INFO - User sees 2000.000 price tag is present on UI successfully
+2022-08-01 19:03:54,277 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-08-01 19:08:07,015 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-08-01 19:08:13,345 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:08:13,622 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:08:14,092 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:08:16,093 - logger_File -INFO - User clicked on MacBook item successfully.
+2022-08-01 19:08:16,254 - logger_File -INFO - User clicked on add to cart button successfully
+2022-08-01 19:08:16,705 - logger_File -INFO - User see 1 item(s)-602.00 showed to the cart.
+2022-08-01 19:08:16,785 - logger_File -INFO - User clicked on on cart option successfully.
+2022-08-01 19:08:16,863 - logger_File -INFO - User clicked on red X button successfully.
+2022-08-01 19:08:18,217 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-08-01 19:08:18,270 - logger_File -INFO - Scenario Product Comparison started
+2022-08-01 19:08:23,065 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:08:23,296 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:08:23,739 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:08:23,845 - logger_File -INFO - User clicked on product comparison icon successfully.
+2022-08-01 19:08:23,941 - logger_File -INFO - User clicked on product comparison icon on MacBook Air successfullty.
+2022-08-01 19:08:25,322 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-08-01 19:08:25,352 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-08-01 19:08:29,638 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:08:30,126 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:08:30,638 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:08:30,742 - logger_File -INFO - User clicked on heart icon to add Sony VaIO laptop to wish list successfully
+2022-08-01 19:08:31,049 - logger_File -INFO - User get the message: You must login or create an account to save Sony VAIO to your wish list! successfully
+2022-08-01 19:08:32,404 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-08-01 19:08:32,444 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-08-01 19:08:36,921 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:08:37,370 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:08:37,883 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:08:39,586 - logger_File -INFO - User clicked on Macbook Pro item successfully.
+2022-08-01 19:08:39,686 - logger_File -INFO - User sees 2000.000 price tag is present on UI successfully
+2022-08-01 19:08:44,854 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-08-01 19:10:37,886 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-08-01 19:10:45,131 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:10:45,327 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:10:45,826 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:10:47,696 - logger_File -INFO - User clicked on MacBook item successfully.
+2022-08-01 19:10:48,030 - logger_File -INFO - User clicked on add to cart button successfully
+2022-08-01 19:10:48,393 - logger_File -INFO - User see 1 item(s)-602.00 showed to the cart.
+2022-08-01 19:10:48,469 - logger_File -INFO - User clicked on on cart option successfully.
+2022-08-01 19:10:48,556 - logger_File -INFO - User clicked on red X button successfully.
+2022-08-01 19:10:48,719 - logger_File -INFO - The item removed from the cart successfully.
+2022-08-01 19:10:49,871 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-01 19:10:49,902 - logger_File -INFO - Scenario Product Comparison started
+2022-08-01 19:10:54,606 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:10:54,849 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:10:55,376 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:10:55,486 - logger_File -INFO - User clicked on product comparison icon successfully.
+2022-08-01 19:10:55,582 - logger_File -INFO - User clicked on product comparison icon on MacBook Air successfullty.
+2022-08-01 19:10:55,784 - logger_File -INFO - User clicked on Product comparison link successfully
+2022-08-01 19:11:46,944 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-08-01 19:11:46,988 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-08-01 19:11:51,763 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:11:52,009 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:11:52,551 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:11:52,669 - logger_File -INFO - User clicked on heart icon to add Sony VaIO laptop to wish list successfully
+2022-08-01 19:11:53,033 - logger_File -INFO - User get the message: You must login or create an account to save Sony VAIO to your wish list! successfully
+2022-08-01 19:11:54,263 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-08-01 19:11:54,291 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-08-01 19:11:59,083 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:11:59,320 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:11:59,810 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:12:01,769 - logger_File -INFO - User clicked on Macbook Pro item successfully.
+2022-08-01 19:12:01,866 - logger_File -INFO - User sees 2000.000 price tag is present on UI successfully
+2022-08-01 19:12:03,182 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-08-01 19:24:54,130 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-08-01 19:25:00,724 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:25:00,926 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:25:01,389 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:25:03,350 - logger_File -INFO - User clicked on MacBook item successfully.
+2022-08-01 19:25:03,542 - logger_File -INFO - User clicked on add to cart button successfully
+2022-08-01 19:25:04,263 - logger_File -INFO - User see 1 item(s)-602.00 showed to the cart.
+2022-08-01 19:25:04,333 - logger_File -INFO - User clicked on on cart option successfully.
+2022-08-01 19:25:04,489 - logger_File -INFO - User clicked on red X button successfully.
+2022-08-01 19:25:04,650 - logger_File -INFO - The item removed from the cart successfully.
+2022-08-01 19:25:09,760 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-01 19:25:09,815 - logger_File -INFO - Scenario Product Comparison started
+2022-08-01 19:25:14,646 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:25:14,916 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:25:15,445 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:25:15,545 - logger_File -INFO - User clicked on product comparison icon successfully.
+2022-08-01 19:25:15,658 - logger_File -INFO - User clicked on product comparison icon on MacBook Air successfullty.
+2022-08-01 19:25:17,095 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-08-01 19:25:17,132 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-08-01 19:25:22,084 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:25:22,357 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:25:22,862 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:25:22,969 - logger_File -INFO - User clicked on heart icon to add Sony VaIO laptop to wish list successfully
+2022-08-01 19:25:23,307 - logger_File -INFO - User get the message: You must login or create an account to save Sony VAIO to your wish list! successfully
+2022-08-01 19:25:24,737 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-08-01 19:25:24,769 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-08-01 19:25:29,798 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:25:30,030 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:25:30,612 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:25:32,312 - logger_File -INFO - User clicked on Macbook Pro item successfully.
+2022-08-01 19:25:32,396 - logger_File -INFO - User sees 2000.000 price tag is present on UI successfully
+2022-08-01 19:25:33,697 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-08-01 19:34:05,559 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-08-01 19:34:11,673 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:34:11,994 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:34:12,526 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:34:14,386 - logger_File -INFO - User clicked on MacBook item successfully.
+2022-08-01 19:34:14,528 - logger_File -INFO - User clicked on add to cart button successfully
+2022-08-01 19:34:15,171 - logger_File -INFO - User see 1 item(s)-602.00 showed to the cart.
+2022-08-01 19:34:15,239 - logger_File -INFO - User clicked on on cart option successfully.
+2022-08-01 19:34:15,348 - logger_File -INFO - User clicked on red X button successfully.
+2022-08-01 19:34:16,730 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-08-01 19:34:16,795 - logger_File -INFO - Scenario Product Comparison started
+2022-08-01 19:34:21,200 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:34:21,670 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:34:22,128 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:34:22,233 - logger_File -INFO - User clicked on product comparison icon successfully.
+2022-08-01 19:34:22,328 - logger_File -INFO - User clicked on product comparison icon on MacBook Air successfullty.
+2022-08-01 19:34:23,804 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-08-01 19:34:23,856 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-08-01 19:34:28,361 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:34:28,791 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:34:29,284 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:34:29,412 - logger_File -INFO - User clicked on heart icon to add Sony VaIO laptop to wish list successfully
+2022-08-01 19:34:29,720 - logger_File -INFO - User get the message: You must login or create an account to save Sony VAIO to your wish list! successfully
+2022-08-01 19:34:30,931 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-08-01 19:34:30,968 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-08-01 19:34:35,343 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:34:35,817 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:34:36,374 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:34:38,049 - logger_File -INFO - User clicked on Macbook Pro item successfully.
+2022-08-01 19:34:38,133 - logger_File -INFO - User sees 2000.000 price tag is present on UI successfully
+2022-08-01 19:34:39,405 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-08-01 19:36:36,211 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-08-01 19:36:39,073 - logger_File -INFO - Scenario Product Comparison started
+2022-08-01 19:36:39,963 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-08-01 19:36:40,755 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-08-01 19:38:29,849 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-08-01 19:38:36,115 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:38:36,559 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:38:37,042 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:38:38,767 - logger_File -INFO - User clicked on MacBook item successfully.
+2022-08-01 19:38:39,165 - logger_File -INFO - User clicked on add to cart button successfully
+2022-08-01 19:38:39,468 - logger_File -INFO - User see 1 item(s)-602.00 showed to the cart.
+2022-08-01 19:38:39,543 - logger_File -INFO - User clicked on on cart option successfully.
+2022-08-01 19:38:39,622 - logger_File -INFO - User clicked on red X button successfully.
+2022-08-01 19:38:39,796 - logger_File -INFO - The item removed from the cart successfully.
+2022-08-01 19:38:40,952 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-01 19:38:40,991 - logger_File -INFO - Scenario Product Comparison started
+2022-08-01 19:38:45,594 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:38:46,049 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:38:46,521 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:38:46,618 - logger_File -INFO - User clicked on product comparison icon successfully.
+2022-08-01 19:38:46,729 - logger_File -INFO - User clicked on product comparison icon on MacBook Air successfullty.
+2022-08-01 19:38:47,151 - logger_File -INFO - User clicked on Product comparison link successfully
+2022-08-01 19:38:47,244 - logger_File -INFO - User sees Product Comparison Chart successfully. 
+2022-08-01 19:38:48,275 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-08-01 19:38:48,311 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-08-01 19:38:53,204 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:38:53,796 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:38:54,320 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:38:54,421 - logger_File -INFO - User clicked on heart icon to add Sony VaIO laptop to wish list successfully
+2022-08-01 19:38:54,802 - logger_File -INFO - User get the message: You must login or create an account to save Sony VAIO to your wish list! successfully
+2022-08-01 19:38:56,008 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-08-01 19:38:56,061 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-08-01 19:39:00,558 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:39:01,083 - logger_File -INFO - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-01 19:39:01,616 - logger_File -INFO - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-01 19:39:03,124 - logger_File -INFO - User clicked on Macbook Pro item successfully.
+2022-08-01 19:39:03,239 - logger_File -INFO - User sees 2000.000 price tag is present on UI successfully
+2022-08-01 19:39:04,470 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-08-01 19:48:47,910 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-08-01 19:48:54,643 - logger_File -INFO - User moved over the desktop tab successfully!
+2022-08-01 19:48:55,311 - logger_File -INFO - User clicked on show all desptop link successfully
+2022-08-01 19:48:55,709 - logger_File -INFO -  is present.
+2022-08-01 19:48:55,777 - logger_File -INFO - Desktops is present.
+2022-08-01 19:48:55,837 - logger_File -INFO - Apple Cinema 30" is present.
+2022-08-01 19:48:55,877 - logger_File -INFO - Canon EOS 5D Camera is present.
+2022-08-01 19:48:55,910 - logger_File -INFO - HP LP3065 is present.
+2022-08-01 19:48:55,938 - logger_File -INFO - HTC Touch HD is present.
+2022-08-01 19:48:55,971 - logger_File -INFO - iPhone is present.
+2022-08-01 19:48:56,003 - logger_File -INFO - iPod Classic is present.
+2022-08-01 19:48:56,035 - logger_File -INFO - MacBook is present.
+2022-08-01 19:48:56,078 - logger_File -INFO - MacBook Air is present.
+2022-08-01 19:48:56,124 - logger_File -INFO - Palm Treo Pro is present.
+2022-08-01 19:48:56,156 - logger_File -INFO - Product 8 is present.
+2022-08-01 19:48:56,190 - logger_File -INFO - Samsung SyncMaster 941BW is present.
+2022-08-01 19:48:56,231 - logger_File -INFO - Sony VAIO is present.
+2022-08-01 19:48:57,291 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-01 19:48:57,347 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-08-01 19:49:02,503 - logger_File -INFO - User moved over the desktop tab successfully!
+2022-08-01 19:49:03,140 - logger_File -INFO - User clicked on show all desptop link successfully
+2022-08-01 19:49:05,192 - logger_File -INFO - User clicked on add to cart option successfully!
+2022-08-01 19:49:05,628 - logger_File -INFO - User selected the quantity successfully.
+2022-08-01 19:49:05,755 - logger_File -INFO - User clicked on add to cart button successfully
+2022-08-01 19:49:07,093 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-08-01 19:49:07,116 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-01 19:49:12,128 - logger_File -INFO - User moved over the desktop tab successfully!
+2022-08-01 19:49:12,744 - logger_File -INFO - User clicked on show all desptop link successfully
+2022-08-01 19:49:13,080 - logger_File -INFO - User added Canon EOS 5D to cart successfully.
+2022-08-01 19:49:15,108 - logger_File -INFO - User selected color red from the dropdown menu successfully
+2022-08-01 19:49:15,604 - logger_File -INFO - User selected the quantity successfully.
+2022-08-01 19:49:15,714 - logger_File -INFO - User clicked on add to cart button successfully
+2022-08-01 19:49:20,868 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-08-01 19:49:20,910 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-08-01 19:49:25,807 - logger_File -INFO - User moved over the desktop tab successfully!
+2022-08-01 19:49:26,470 - logger_File -INFO - User clicked on show all desptop link successfully
+2022-08-01 19:49:28,557 - logger_File -INFO - User clicked on Can 5D item successfully.
+2022-08-01 19:49:29,097 - logger_File -INFO - User clicked on Write a review link successfully.
+2022-08-01 19:49:29,680 - logger_File -INFO - User filled the review information successfully
+2022-08-01 19:49:29,756 - logger_File -INFO - User clicked on continue button successfully.
+2022-08-01 19:49:31,003 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-08-01 19:49:31,039 - logger_File -INFO - Scenario User verify currency values change started
+2022-08-01 19:49:36,089 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:49:36,209 - logger_File -INFO - User clicked on currency link successfully.
+2022-08-01 19:49:36,744 - logger_File -INFO - User chose the Euro from dropdown successfully.
+2022-08-01 19:49:36,877 - logger_File -INFO - The currency value changed to Euro successfully.
+2022-08-01 19:49:38,028 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-08-01 19:49:38,041 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-08-01 19:49:42,641 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:49:43,089 - logger_File -INFO - User clicked on shopping cart link successfully.
+2022-08-01 19:49:43,183 - logger_File -INFO - The message, Your shopping cart is empty displayed successfully.
+2022-08-01 19:49:44,239 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-08-01 19:49:44,283 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-01 19:49:49,395 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:49:49,497 - logger_File -INFO - User clicked on my account link successfully.
+2022-08-01 19:49:49,905 - logger_File -INFO - User clicked on login link successfully.
+2022-08-01 19:49:50,282 - logger_File -INFO - User entered email address and password successfully
+2022-08-01 19:49:50,791 - logger_File -INFO - User clicked on login button successfully.
+2022-08-01 19:49:50,896 - logger_File -INFO - User landed on login dashboard successfully.
+2022-08-01 19:49:51,399 - logger_File -INFO - Register account link was clicked successfully
+2022-08-01 19:49:51,969 - logger_File -INFO - User filled the affiliated account form successfully
+2022-08-01 19:49:52,069 - logger_File -INFO - User checked the About Us successfully
+2022-08-01 19:49:52,681 - logger_File -INFO - User clicked on the continue button succcessfully
+2022-08-01 19:49:52,768 - logger_File -INFO - User see a success message successfully
+2022-08-01 19:49:53,844 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-08-01 19:49:53,875 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-01 19:49:58,822 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:49:58,923 - logger_File -INFO - User clicked on my account link successfully.
+2022-08-01 19:49:59,253 - logger_File -INFO - User clicked on login link successfully.
+2022-08-01 19:49:59,621 - logger_File -INFO - User entered email address and password successfully
+2022-08-01 19:50:00,203 - logger_File -INFO - User clicked on login button successfully.
+2022-08-01 19:50:00,311 - logger_File -INFO - User landed on login dashboard successfully.
+2022-08-01 19:50:01,010 - logger_File -INFO - User clicked on Edit Affiliated Information Link successfully
+2022-08-01 19:50:01,189 - logger_File -INFO - User selected Bank Radio Button successfully
+2022-08-01 19:50:02,063 - logger_File -INFO - User filled Bank information successfully
+2022-08-01 19:50:02,678 - logger_File -INFO - User clicked on the continue button succcessfully
+2022-08-01 19:50:02,773 - logger_File -INFO - User see a success message successfully
+2022-08-01 19:50:03,849 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-01 19:50:03,873 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-01 19:50:09,067 - logger_File -INFO - User is on the reatil page successfully.
+2022-08-01 19:50:09,177 - logger_File -INFO - User clicked on my account link successfully.
+2022-08-01 19:50:09,561 - logger_File -INFO - User clicked on login link successfully.
+2022-08-01 19:50:09,825 - logger_File -INFO - User entered email address and password successfully
+2022-08-01 19:50:10,343 - logger_File -INFO - User clicked on login button successfully.
+2022-08-01 19:50:10,432 - logger_File -INFO - User landed on login dashboard successfully.
+2022-08-01 19:50:11,393 - logger_File -INFO - User clicked on edit your account link successfully
+2022-08-01 19:50:12,112 - logger_File -INFO - User modified the information successfully
+2022-08-01 19:50:12,604 - logger_File -INFO - User clicked on the continue button successfully
+2022-08-01 19:50:12,702 - logger_File -INFO - User see a message: Success: Your account has been successfully updated.
+2022-08-01 19:50:13,767 - logger_File -INFO - Scenario Edit your account Information PASSED
