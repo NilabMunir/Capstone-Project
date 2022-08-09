@@ -657,3 +657,119 @@
 2022-08-01 19:50:12,604 [main] INFO logger_File - User clicked on the continue button successfully
 2022-08-01 19:50:12,702 [main] INFO logger_File - User see a message: Success: Your account has been successfully updated.
 2022-08-01 19:50:13,767 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2022-08-03 21:23:24,276 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab started
+2022-08-03 21:23:29,101 [main] INFO logger_File - User moved over the desktop tab successfully!
+2022-08-03 21:23:29,672 [main] INFO logger_File - User clicked on show all desptop link successfully
+2022-08-03 21:23:30,012 [main] INFO logger_File -  is present.
+2022-08-03 21:23:30,073 [main] INFO logger_File - Desktops is present.
+2022-08-03 21:23:30,119 [main] INFO logger_File - Apple Cinema 30" is present.
+2022-08-03 21:23:30,150 [main] INFO logger_File - Canon EOS 5D Camera is present.
+2022-08-03 21:23:30,180 [main] INFO logger_File - HP LP3065 is present.
+2022-08-03 21:23:30,212 [main] INFO logger_File - HTC Touch HD is present.
+2022-08-03 21:23:30,243 [main] INFO logger_File - iPhone is present.
+2022-08-03 21:23:30,273 [main] INFO logger_File - iPod Classic is present.
+2022-08-03 21:23:30,307 [main] INFO logger_File - MacBook is present.
+2022-08-03 21:23:30,336 [main] INFO logger_File - MacBook Air is present.
+2022-08-03 21:23:30,367 [main] INFO logger_File - Palm Treo Pro is present.
+2022-08-03 21:23:30,398 [main] INFO logger_File - Product 8 is present.
+2022-08-03 21:23:30,429 [main] INFO logger_File - Samsung SyncMaster 941BW is present.
+2022-08-03 21:23:30,460 [main] INFO logger_File - Sony VAIO is present.
+2022-08-03 21:23:31,400 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-03 21:23:31,447 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-08-03 21:23:34,797 [main] INFO logger_File - User moved over the desktop tab successfully!
+2022-08-03 21:23:35,356 [main] INFO logger_File - User clicked on show all desptop link successfully
+2022-08-03 21:23:37,146 [main] INFO logger_File - User clicked on add to cart option successfully!
+2022-08-03 21:23:37,413 [main] INFO logger_File - User selected the quantity successfully.
+2022-08-03 21:23:37,520 [main] INFO logger_File - User clicked on add to cart button successfully
+2022-08-03 21:23:38,629 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-08-03 21:23:38,666 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-03 21:23:42,338 [main] INFO logger_File - User moved over the desktop tab successfully!
+2022-08-03 21:23:42,902 [main] INFO logger_File - User clicked on show all desptop link successfully
+2022-08-03 21:23:43,193 [main] INFO logger_File - User added Canon EOS 5D to cart successfully.
+2022-08-03 21:23:45,072 [main] INFO logger_File - User selected color red from the dropdown menu successfully
+2022-08-03 21:23:45,501 [main] INFO logger_File - User selected the quantity successfully.
+2022-08-03 21:23:45,587 [main] INFO logger_File - User clicked on add to cart button successfully
+2022-08-03 21:23:50,675 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-08-03 21:23:50,761 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-08-03 21:23:54,035 [main] INFO logger_File - User moved over the desktop tab successfully!
+2022-08-03 21:23:54,637 [main] INFO logger_File - User clicked on show all desptop link successfully
+2022-08-03 21:23:56,193 [main] INFO logger_File - User clicked on Can 5D item successfully.
+2022-08-03 21:23:56,299 [main] INFO logger_File - User clicked on Write a review link successfully.
+2022-08-03 21:23:57,034 [main] INFO logger_File - User filled the review information successfully
+2022-08-03 21:23:57,133 [main] INFO logger_File - User clicked on continue button successfully.
+2022-08-03 21:24:02,270 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-08-03 21:24:02,340 [main] INFO logger_File - Scenario User verify currency values change started
+2022-08-03 21:24:05,535 [main] INFO logger_File - User is on the reatil page successfully.
+2022-08-03 21:24:05,648 [main] INFO logger_File - User clicked on currency link successfully.
+2022-08-03 21:24:06,152 [main] INFO logger_File - User chose the Euro from dropdown successfully.
+2022-08-03 21:24:06,248 [main] INFO logger_File - The currency value changed to Euro successfully.
+2022-08-03 21:24:07,217 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2022-08-03 21:24:07,279 [main] INFO logger_File - Scenario User empty Shopping cart message displays started
+2022-08-03 21:24:10,585 [main] INFO logger_File - User is on the reatil page successfully.
+2022-08-03 21:24:10,942 [main] INFO logger_File - User clicked on shopping cart link successfully.
+2022-08-03 21:24:11,019 [main] INFO logger_File - The message, Your shopping cart is empty displayed successfully.
+2022-08-03 21:24:11,887 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2022-08-03 21:24:11,928 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart started
+2022-08-03 21:24:15,164 [main] INFO logger_File - User is on the reatil page successfully.
+2022-08-03 21:24:15,351 [main] INFO logger_File - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-03 21:24:15,793 [main] INFO logger_File - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-03 21:24:17,119 [main] INFO logger_File - User clicked on MacBook item successfully.
+2022-08-03 21:24:17,254 [main] INFO logger_File - User clicked on add to cart button successfully
+2022-08-03 21:24:17,624 [main] INFO logger_File - User see 1 item(s)-602.00 showed to the cart.
+2022-08-03 21:24:17,703 [main] INFO logger_File - User clicked on on cart option successfully.
+2022-08-03 21:24:17,775 [main] INFO logger_File - User clicked on red X button successfully.
+2022-08-03 21:24:23,044 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart FAILED
+2022-08-03 21:24:23,090 [main] INFO logger_File - Scenario Product Comparison started
+2022-08-03 21:24:26,318 [main] INFO logger_File - User is on the reatil page successfully.
+2022-08-03 21:24:26,536 [main] INFO logger_File - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-03 21:24:26,956 [main] INFO logger_File - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-03 21:24:27,053 [main] INFO logger_File - User clicked on product comparison icon successfully.
+2022-08-03 21:24:27,139 [main] INFO logger_File - User clicked on product comparison icon on MacBook Air successfullty.
+2022-08-03 21:24:28,322 [main] INFO logger_File - Scenario Product Comparison FAILED
+2022-08-03 21:24:28,388 [main] INFO logger_File - Scenario Adding an item to Wish list started
+2022-08-03 21:24:31,631 [main] INFO logger_File - User is on the reatil page successfully.
+2022-08-03 21:24:31,849 [main] INFO logger_File - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-03 21:24:32,272 [main] INFO logger_File - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-03 21:24:32,358 [main] INFO logger_File - User clicked on heart icon to add Sony VaIO laptop to wish list successfully
+2022-08-03 21:24:32,632 [main] INFO logger_File - User get the message: You must login or create an account to save Sony VAIO to your wish list! successfully
+2022-08-03 21:24:33,706 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2022-08-03 21:24:33,752 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 started
+2022-08-03 21:24:36,915 [main] INFO logger_File - User is on the reatil page successfully.
+2022-08-03 21:24:37,176 [main] INFO logger_File - Mouse moved to Laptop & NoteBook tab successfully.
+2022-08-03 21:24:37,647 [main] INFO logger_File - User clicked on show all Laptop & NoteBook option successfullly.
+2022-08-03 21:24:38,958 [main] INFO logger_File - User clicked on Macbook Pro item successfully.
+2022-08-03 21:24:39,049 [main] INFO logger_File - User sees 2000.000 price tag is present on UI successfully
+2022-08-03 21:24:40,162 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-08-03 21:24:40,235 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-03 21:24:43,500 [main] INFO logger_File - User is on the reatil page successfully.
+2022-08-03 21:24:43,585 [main] INFO logger_File - User clicked on my account link successfully.
+2022-08-03 21:24:43,950 [main] INFO logger_File - User clicked on login link successfully.
+2022-08-03 21:24:44,208 [main] INFO logger_File - User entered email address and password successfully
+2022-08-03 21:24:44,662 [main] INFO logger_File - User clicked on login button successfully.
+2022-08-03 21:24:44,730 [main] INFO logger_File - User landed on login dashboard successfully.
+2022-08-03 21:25:35,852 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-08-03 21:25:35,882 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-03 21:25:39,206 [main] INFO logger_File - User is on the reatil page successfully.
+2022-08-03 21:25:39,346 [main] INFO logger_File - User clicked on my account link successfully.
+2022-08-03 21:25:39,738 [main] INFO logger_File - User clicked on login link successfully.
+2022-08-03 21:25:40,003 [main] INFO logger_File - User entered email address and password successfully
+2022-08-03 21:25:40,443 [main] INFO logger_File - User clicked on login button successfully.
+2022-08-03 21:25:40,507 [main] INFO logger_File - User landed on login dashboard successfully.
+2022-08-03 21:25:40,948 [main] INFO logger_File - User clicked on Edit Affiliated Information Link successfully
+2022-08-03 21:25:41,038 [main] INFO logger_File - User selected Bank Radio Button successfully
+2022-08-03 21:25:41,530 [main] INFO logger_File - User filled Bank information successfully
+2022-08-03 21:25:42,109 [main] INFO logger_File - User clicked on the continue button succcessfully
+2022-08-03 21:25:42,194 [main] INFO logger_File - User see a success message successfully
+2022-08-03 21:25:43,109 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-03 21:25:43,129 [main] INFO logger_File - Scenario Edit your account Information started
+2022-08-03 21:25:46,290 [main] INFO logger_File - User is on the reatil page successfully.
+2022-08-03 21:25:46,392 [main] INFO logger_File - User clicked on my account link successfully.
+2022-08-03 21:25:46,837 [main] INFO logger_File - User clicked on login link successfully.
+2022-08-03 21:25:47,144 [main] INFO logger_File - User entered email address and password successfully
+2022-08-03 21:25:47,640 [main] INFO logger_File - User clicked on login button successfully.
+2022-08-03 21:25:47,739 [main] INFO logger_File - User landed on login dashboard successfully.
+2022-08-03 21:25:48,655 [main] INFO logger_File - User clicked on edit your account link successfully
+2022-08-03 21:25:49,274 [main] INFO logger_File - User modified the information successfully
+2022-08-03 21:25:49,733 [main] INFO logger_File - User clicked on the continue button successfully
+2022-08-03 21:25:49,838 [main] INFO logger_File - User see a message: Success: Your account has been successfully updated.
+2022-08-03 21:25:50,850 [main] INFO logger_File - Scenario Edit your account Information PASSED
